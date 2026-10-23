@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gear Remote</string>
+    <string name="a11y_desc">يحوّل ريموت Gear VR إلى ريموت للجوال: السحب على اللوحة يقلّب الريلز، والأزرار تتحكم في الصوت والرجوع. يحتاج هذه الصلاحية عشان يقدر يسوي سحب ولمس على الشاشة بدالك.</string>
+</resources>
